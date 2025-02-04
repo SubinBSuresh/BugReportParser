@@ -10,5 +10,5 @@ This project is designed to parse, process, and summarize CPU usage logs extract
 - **Rank processes** based on their CPU usage across multiple loops.
 
 ## Requirements
-- **Python
-- **Runs only in linux because of some file operations logic.
+- Python
+- Runs only in linux because of some file operations logic.
